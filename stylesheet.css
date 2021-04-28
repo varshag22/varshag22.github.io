@@ -95,7 +95,7 @@ background-color: #1db096;
 border-radius: 20px;
 box-shadow:5px 10px 30px rgba(24,139,119,0.2);
 }
-.butto:hover{
+.button:hover{
 background-color: #23cdaf;
 transition: all ease 0.2s;
 }
